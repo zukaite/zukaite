@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**zukaite/zukaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guoda, a data scientist and engineer transitioning into a ML engineer role.
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Based in the UK with MSc in Computer Science and a BSc in Economics and Econometrics <br>
+💼 Gained experienced as Senior Analytics Engineer and Senior Data Scientist at Capital One; Model Developer at Experian <br>
+🏆 Recognised for crafting high-performance models and tools, significantly boosting efficiency and profitability <br>
+🎾 Championing a blend of strategic thinking, resilience, and excellence, inspired by tennis and weightlifting pursuits <br>
+
+## 🌟 Project Spotlight
+
+### Book Recommendation System Comparison
+📚 This project was both a learning endeavor and an opportunity to benchmark state-of-the-art recommendation systems. It reflects my dedication to mastering new technologies and contributing to the machine learning community by evaluating various models for personalizing reading experiences.
+
+## Let's Connect
+
+I'm looking for opportunities to collaborate, innovate, and grow. If you're interested in connecting, whether for projects, knowledge sharing, or just to chat about the latest in tech, I'm here for it!
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guodazukaite) 
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
