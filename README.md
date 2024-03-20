@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Guoda, a data scientist and engineer transitioning into a ML engineer role.
+I'm Guoda Žūkaitė (pronounced: GWOH-dah ZHOO-kye-teh), a data scientist and engineer with a passion for leveraging machine learning to solve complex problems. With a strong background in developing ML models, pipelines, and applications, I enjoy working at the intersection of data, algorithms, and product development to drive meaningful insights and create value.
 
 ## 💫 About Me
 
